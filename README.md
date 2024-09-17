@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rohith-Katam
-- 👀 I’m interested in Technology.
+- 👀 I’m interested in various Technology.
 - 🌱 I’m currently learning Html.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me katamrohith@outlook.com
-- I'm from Bharat.
+- I'm from Bharat(India).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
